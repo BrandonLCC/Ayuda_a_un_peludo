@@ -1,0 +1,23 @@
+
+section {
+position: fixed;
+padding-left: 10px;
+margin-top: -200px;
+margin-left: 250px;
+}
+
+img {
+
+width: 200px;
+height: 200px;
+margin-right:200px; 
+margin-top: 130px;
+margin-left: 30px;
+background-color: darkblue;
+}
+
+a {
+padding-left: 1500px; 
+
+}
+
