@@ -7,12 +7,45 @@ margin-left: 600px;
 p {
 
 
-width: 500px;
+width: 600px;
 height: 100px;
-margin-left: 600px;
+margin-left: 500px;
 
 }
 
 h2 {
+
+    margin-left: 600px;
+
+}
+
+li {
+
+    margin-left: 490px;
+
+}
+
+.gato {
+
+margin-left: 500px;
+
+}
+
+.perro {
+    position: absolute;
+    margin: 200px 0px 0px -300px
     
+    }
+
+.linkc {
+    position:fixed;
+    margin: 80px 0px 0px 20px
+    
+
+}
+.linkp {
+    position: absolute;
+    margin: 280px 0px 0px 22px
+    
+
 }
