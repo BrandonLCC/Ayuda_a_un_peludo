@@ -29,7 +29,8 @@ h1 {
     padding-left: 20px;
     }
     
-    .plink {
-    padding-left: 1620px;
-    
+    .plink  {
+        padding-left: 1300px; 
+        float: right;
+     
     }

@@ -29,7 +29,8 @@ padding-top: 100px;
 padding-left: 20px;
 }
 
-.plink {
-padding-left: 1300px;
-
+.plink  {
+    padding-left: 1300px; 
+    float: right;
+ 
 }
