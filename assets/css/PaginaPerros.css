@@ -24,7 +24,7 @@ h1 {
     
     .link { 
     
-    position:fixed;
+    position:static;
     padding-top: 100px;
     padding-left: 20px;
     }
