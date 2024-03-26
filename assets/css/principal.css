@@ -33,7 +33,7 @@ margin-left: 500px;
 
 .perro {
     position: absolute;
-    margin: 200px 0px 0px -300px
+    margin: 190px 0px 0px -300px
     
     }
 
@@ -44,7 +44,7 @@ margin-left: 500px;
 
 }
 .linkp {
-    position: static;
+    position: absolute;
     margin: 280px 0px 0px 22px
     
 
