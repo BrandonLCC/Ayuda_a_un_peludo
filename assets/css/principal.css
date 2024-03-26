@@ -44,7 +44,7 @@ margin-left: 500px;
 
 }
 .linkp {
-    position: absolute;
+    position: static;
     margin: 280px 0px 0px 22px
     
 
